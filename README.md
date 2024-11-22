@@ -4,8 +4,7 @@ The <span style="color: blue;">**Pharmacy Management System**</span> is designed
 
 ---
 
-  <span style="color: red;">(Important: Please note the dynamic resizing behavior)</span>
-
+```text```
 ## **Main Menu Options** 📋
 
 The system offers **23 comprehensive options** for managing pharmacies, medications, and customers:
