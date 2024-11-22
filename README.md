@@ -2,27 +2,27 @@
 
 The <span style="color: blue;">**Pharmacy Management System**</span> is designed to efficiently manage multiple pharmacies, their medications, customers, and sales operations. Below is a detailed breakdown of the system's core features and main menu options:
 
----
 
-```text```
 ## **Main Menu Options** 📋
 
 The system offers **23 comprehensive options** for managing pharmacies, medications, and customers:
-
+```
 ### **1. Add a New Pharmacy** 🏥
 - Dynamically create and add a new pharmacy to the system.
 - Automatically resizes the pharmacy array when the maximum capacity is reached.
-
+```
+```
 ### **2. Add Medications for a Pharmacy** 💊
 - Add medications to a pharmacy, choosing from:
   - **General Medications**: Regular medications with basic attributes.
   - **Prescription Medications**: Includes FDA approval details.
   - **Off The Shelf Medications**: Includes promotional offers like BOGOF.
-
+```
+```
 ### **3. Display List of Medications for a Pharmacy** 📝
 - View all medications in a pharmacy, categorized by type:
   - General, Prescription, or Off The Shelf.
-
+```
 ### **4. Remove a Medication from a Pharmacy** ❌💊
 - Delete medications using different criteria:
   - By pharmacy ID or name.
