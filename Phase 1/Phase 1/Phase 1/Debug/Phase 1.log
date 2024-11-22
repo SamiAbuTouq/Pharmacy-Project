@@ -1,0 +1,5 @@
+﻿  Pharmacy.cpp
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 1\Phase 1\Phase 1\Pharmacy.cpp(32,36): error C2280: 'Customer &Customer::operator =(const Customer &)': attempting to reference a deleted function
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 1\Phase 1\Phase 1\Customer.h(36): message : compiler has generated 'Customer::operator =' here
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 1\Phase 1\Phase 1\Customer.h(36,1): message : 'Customer &Customer::operator =(const Customer &)': function was implicitly deleted because 'Customer' has a data member 'Customer::customerID' of const-qualified non-class type
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 1\Phase 1\Phase 1\Customer.h(9): message : see declaration of 'Customer::customerID'

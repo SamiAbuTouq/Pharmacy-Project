@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\SAMI (STUDING)\DOC\Git-Projects\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(120,12): warning C4101: 'm2': unreferenced local variable
+D:\SAMI (STUDING)\DOC\Git-Projects\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(120,8): warning C4101: 'd1': unreferenced local variable
+D:\SAMI (STUDING)\DOC\Git-Projects\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(120,16): warning C4101: 'y3': unreferenced local variable
+D:\SAMI (STUDING)\DOC\Git-Projects\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(471,15): warning C4101: 'm2': unreferenced local variable
+D:\SAMI (STUDING)\DOC\Git-Projects\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(471,11): warning C4101: 'd1': unreferenced local variable
+D:\SAMI (STUDING)\DOC\Git-Projects\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(471,19): warning C4101: 'y3': unreferenced local variable
+  Pharmacy.cpp
+  Generating Code...
+  Phase 3.vcxproj -> D:\SAMI (STUDING)\DOC\Git-Projects\OOP Project\Phase 3\Phase 3\x64\Debug\Phase 3.exe

@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(131,12): warning C4101: 'm2': unreferenced local variable
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(131,8): warning C4101: 'd1': unreferenced local variable
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(131,16): warning C4101: 'y3': unreferenced local variable
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(443,15): warning C4101: 'm2': unreferenced local variable
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(443,11): warning C4101: 'd1': unreferenced local variable
+C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 3\Phase 3\Phase 3\Main.cpp(443,19): warning C4101: 'y3': unreferenced local variable
+  Pharmacy.cpp
+  Generating Code...
+  Phase 3.vcxproj -> C:\Users\Dell\Desktop\SAMI (STUDING)\ALL COURSES\OOP Project\Phase 3\Phase 3\Debug\Phase 3.exe
