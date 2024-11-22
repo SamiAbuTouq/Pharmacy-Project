@@ -1,7 +1,8 @@
   # **Pharmacy Management System in C++** 💊💻
 
 The  **Pharmacy Management System**  is designed to efficiently manage multiple pharmacies, their medications, customers, and sales operations. 
-"The project is divided into three phases, each with its own documentation. The third phase contains the final version of the project."
+*The project is divided into three phases, each with its own documentation. The third phase contains the final version of the project.*
+
 Below is a detailed breakdown of the system's core features and main menu options:
 
 
