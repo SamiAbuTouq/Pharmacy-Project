@@ -94,7 +94,7 @@ The system offers **23 comprehensive options** for managing pharmacies, medicati
 ### **23. Exit the System** 🚪
 - Safely exit the system and clean up dynamically allocated memory to prevent leaks.
 
-
+#
 This structure enables dynamic and efficient management of pharmacies, medications, customers, and sales, all while providing a user-friendly interface and robust error handling. 🚀
 
 
