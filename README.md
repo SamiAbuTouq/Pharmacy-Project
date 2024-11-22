@@ -4,6 +4,7 @@ The <span style="color: blue;">**Pharmacy Management System**</span> is designed
 
 ---
 
+  <span style="color: red;">(Important: Please note the dynamic resizing behavior)</span>
 
 ## **Main Menu Options** 📋
 
