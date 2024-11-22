@@ -1,6 +1,6 @@
-# **Pharmacy Management System in C++** 💊💻
+  # **Pharmacy Management System in C++** 💊💻
 
-The <span style="color: blue;">**Pharmacy Management System**</span> is designed to efficiently manage multiple pharmacies, their medications, customers, and sales operations. Below is a detailed breakdown of the system's core features and main menu options:
+The * **Pharmacy Management System** * is designed to efficiently manage multiple pharmacies, their medications, customers, and sales operations. Below is a detailed breakdown of the system's core features and main menu options:
 
 
 ## **Main Menu Options** 📋
