@@ -91,13 +91,8 @@ The system offers **23 comprehensive options** for managing pharmacies, medicati
 ### **23. Exit the System** 🚪
 - Safely exit the system and clean up dynamically allocated memory to prevent leaks.
 
----
-
 
 *For more information you can see the [Documentation](https://github.com/SamiAbuTouq/Pharmacy-Project/blob/main/Phase%203/Phase%203%20Documentation.pdf)*
 
-
-
----
 
 This structure enables dynamic and efficient management of pharmacies, medications, customers, and sales, all while providing a user-friendly interface and robust error handling. 🚀
