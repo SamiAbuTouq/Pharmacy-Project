@@ -7,7 +7,7 @@ The <span style="color: blue;">**Pharmacy Management System**</span> is designed
 
 The system offers **23 comprehensive options** for managing pharmacies, medications, and customers:
 
-### **<i>1. Add a New Pharmacy 🏥</i>**
+### **1. Add a New Pharmacy 🏥**
 - Dynamically create and add a new pharmacy to the system.
 - Automatically resizes the pharmacy array when the maximum capacity is reached.
 
