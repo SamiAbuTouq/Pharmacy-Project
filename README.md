@@ -3,6 +3,8 @@
 The **Pharmacy Management System** is designed to efficiently manage multiple pharmacies, their medications, customers, and sales operations.  
 *The project is divided into three phases, each with its own documentation. The third phase contains the final version of the project.*  
 
+This project was collaboratively developed by **Sami Abu Touq**, **Shaima Ahmad**, **Raghad Alqammaz**, and **Amr Saeed**.  
+
 This project was collaboratively developed by 
 - **Sami Abu Touq**
 - **Shaima Ahmad**
