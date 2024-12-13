@@ -5,7 +5,7 @@ The **Pharmacy Management System** is designed to efficiently manage multiple ph
 
 This project was collaboratively developed by **Sami Abu Touq**, **Shaima Ahmad**, **Raghad Alqammaz**, and **Amr Saeed**.  
 
-sdasdasdasdas ffefwefwfwefew
+sdasdfdsfsdsdasdasdas ffefwefwfwefew
 ## **Main Menu Options** 📋  
 The system offers **23 comprehensive options** for managing pharmacies, medications, and customers:  
 
