@@ -9,7 +9,7 @@ This project was collaboratively developed by **Sami Abu Touq**, **Shaima Ahmad*
 ## **Main Menu Options** 📋  
 The system offers **23 comprehensive options** for managing pharmacies, medications, and customers:  
 
- **1. Add a New Pharmacy 🏥**  
+ ****1. Add a New Pharmacy 🏥****  
 - Dynamically create and add a new pharmacy to the system.  
 - Automatically resizes the pharmacy array when the maximum capacity is reached.  
 
