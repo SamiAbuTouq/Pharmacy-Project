@@ -2,7 +2,7 @@
 
 A console-based pharmacy management system built with C++ as a multi-phase academic project. The system provides an interactive menu-driven interface for managing pharmacies, medications, customers, and sales operations.
 
-This project was collaboratively developed by: **Sami Abu Touq, Shaima Ahmad, Raghad Alqammaz, Amr Saeed**
+This project was collaboratively developed by: **Sami Abu Touq, Shaima Ahmad, Raghad Alqammaz, Amr Saeed**.
 
 ## Project Structure
 
