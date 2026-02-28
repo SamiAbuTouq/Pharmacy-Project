@@ -38,11 +38,16 @@ Introduces an inheritance hierarchy with two medication subtypes, dynamic array 
 ## Class Hierarchy
 
 ```
-Medication
-├── Prescription
-└── OffTheShelf
+Pharmacy (contains arrays of)
+├── Medication
+│   ├── Prescription
+│   └── OffTheShelf
+└── Customer
+    └── Address (composition)
 
-Customer ── Address
+Medication
+├── Prescription   (inheritance)
+└── OffTheShelf    (inheritance)
 ```
 
 ## Key Features
