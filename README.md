@@ -63,7 +63,7 @@ Medication
 
 ## Building and Running
 
-Download the project, open the `.sln` file for any phase in a C++ IDE (e.g., Visual Studio), and hit the Run button.
+Download the project, navigate to Pharmacy-Project → Phase 3 → Phase 3, open the `.sln` file for any phase in a C++ IDE (e.g., Visual Studio), and hit the Run button.
 
 ## Documentation
 
