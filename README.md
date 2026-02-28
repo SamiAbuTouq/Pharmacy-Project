@@ -43,8 +43,6 @@ Medication
 └── OffTheShelf
 
 Customer ── Address
-
-Date
 ```
 
 ## Key Features
