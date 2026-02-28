@@ -2,7 +2,7 @@
 
 A console-based pharmacy management system built with C++ as a multi-phase academic project. The system provides an interactive menu-driven interface for managing pharmacies, medications, customers, and sales operations.
 
-**Authors:** Sami Abu Touq, Shaima Ahmad, Raghad Alqammaz, Amr Saeed
+This project was collaboratively developed by: **Sami Abu Touq, Shaima Ahmad, Raghad Alqammaz, Amr Saeed**
 
 ## Project Structure
 
@@ -60,13 +60,7 @@ Date
 
 ## Building and Running
 
-Each phase is a standalone Visual Studio project:
-
-1. Open the `.sln` file in Visual Studio (e.g., `Phase 3/Phase 3/Phase 3.sln`)
-2. Build the solution (`Ctrl+Shift+B`)
-3. Run without debugging (`Ctrl+F5`)
-
-**Requirements:** Visual Studio 2019 or later with the C++ Desktop Development workload.
+Download the project, open the `.sln` file for any phase in a C++ IDE (e.g., Visual Studio), and hit the Run button.
 
 ## Documentation
 
